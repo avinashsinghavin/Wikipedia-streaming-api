@@ -13,7 +13,7 @@
               -> npm i cors<br>
               -> npm i request<br>
 
-* Open any Browser and Enter http://localhost:4000/ (you can see the Api Data).
+* Open any Browser and Enter http://localhost:4000/ (you can see the Api Data).<br>
 <b><i>Frontend: </i></b>
 * Open task1.js file in any text Editor of your preference.
 * Change URL of Call Api (line No: 35 to http://localhost:4000/
