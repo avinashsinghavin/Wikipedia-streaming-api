@@ -11,7 +11,7 @@
               -> npm install express<br>
               -> npm i eventsource<br>
               -> npm i cors<br>
-              -> npm i request
+              -> npm i request<br>
 
 * Open any Browser and Enter http://localhost:4000/ (you can see the Api Data).
 <b><i>Frontend: </i></b>
