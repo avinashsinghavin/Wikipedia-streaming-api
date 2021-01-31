@@ -1,25 +1,10 @@
-# Graph-Visualizer
-This repository features various path-finding and maze generation algorithms in a grid.
+# Wikipedia Streaming Api
 
+<i>Clone the repository from GitHub: https://github.com/avinashsinghavin/Wikipedia-streaming-api</i>
 
-# What are pathfinding algorithms?
-<i>Pathfinding algorithms are the class of algorithms that usually attempt to solve the shortest path problem in graph theory. They try to find the best path given a starting point and ending point based on some predefined criteria.</i>
-
-# What is Pathfinder?
-
-<img src="Resources/icon.png" height=300 width=300>
-
-<i>This visualizing tool shows how different pathfinding algorithms work. The basic idea of it is to begin from the 'Start' and reach the 'Goal' node. A node's horizontal and vertical neighbours are considered the valid neighbours i.e. only UP, DOWN, LEFT, RIGHT movements are allowed (no diagonal crossing). 
-
-Once any algorithm starts searching for the goal node, the visited nodes would be marked in orange color. The algorithm runs untill the goal node is reached or the entire grid is searched. If the path is found it will be marked with blue color.</i>
-
-# Select an algorithms!
-
-<img src="Resources/selectAlgo.gif" height=400 width=300>
-
-<i>Here we primarily have two classes of algorithms: <b>weighted</b> and <b>unweighted</b>.</i>
-* <b>Weighted</b>: These category of algorithms consider the weights of nodes while searching for the goal node.
-* <b>Unweighted</b>: These algorithms don't consider the weights of nodes while searching for the goal node.
+<b><i>Set Backend: </i></b>
+* <b>Open CMD in Backend Folder</b>
+* <b>Install node https://nodejs.org/en/download/</b>
 
 <i>Also all the algorithms doesn't guarantee the shortest path. You can pick an algorithm from the algorithm drop down menu to visualize it.</i>
 
