@@ -32,7 +32,7 @@ function myFunction() {
 }
 
 async function callApi() {
-  const url = "https://wikipediaapi.avinashsingh7.repl.co/";
+  const url = "http://localhost:4000/";
   fetch(url, {
     method: "GET",
     headers: { "Content-Type": "application/json" },
