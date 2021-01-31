@@ -2,9 +2,9 @@
 Wikipedia Streaming Api
 Clone the repository from GitHub: https://github.com/avinashsinghavin/Wikipedia-streaming-api
 Set Backend: 
-    *   Open CMD in Backend Folder
-    *   Install node https://nodejs.org/en/download/
-    *   Write command
+    * Open CMD in Backend Folder
+    * Install node https://nodejs.org/en/download/
+    * Write command
         npm install express
     *	Fill details as per your preference (you can click Enter without entering any Data).
     *	Write Command
